@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "solocloud.host",
-    "port": 25565,
+    "ip": "comebacksma.aternos.me",
+    "port": 23581,
     "version": "1.20.1",
     "try-creative": false
   },
